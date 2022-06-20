@@ -1,0 +1,6 @@
+#ignorar los archivos ejecutables .exe
+*.exe
+/.vs
+..gitignore.un~
+.gitignore~
+.metadata
